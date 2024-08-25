@@ -1,5 +1,7 @@
 # Accident-Detection-and-Signal-Regulation-System
-Accurate accident detection and efficient traffic control are crucial for improving road safety. Deep learning techniques have demonstrated remarkable potential in this domain. This repository focuses on utilizing deep learning models to detect accidents and control traffic, leveraging large-scale datasets for training and optimization.
+Accurate accident detection and efficient traffic control are crucial for improving road safety. Deep learning techniques have demonstrated remarkable potential in this domain. This repository focuses on utilizing deep learning models to detect accidents and control traffic, leveraging large-scale datasets for training and optimization. 
+
+(Object detection - Yolo v5, Accident detection - CNN)
 
 # Overview
 The primary objective is to automatically detect accidents using deep learning. 
