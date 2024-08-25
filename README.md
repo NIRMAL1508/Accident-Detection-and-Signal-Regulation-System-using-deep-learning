@@ -3,6 +3,9 @@ Accurate accident detection and efficient traffic control are crucial for improv
 
 (Object detection - Yolo v5, Accident detection - CNN)
 
+<img width="561" alt="Screenshot 2024-08-25 at 7 15 25 PM" src="https://github.com/user-attachments/assets/0eb56b58-fa2a-4f37-a2a2-0f933c972c2d">
+
+
 # Overview
 The primary objective is to automatically detect accidents using deep learning. 
 
